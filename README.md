@@ -1,7 +1,7 @@
 # RoValra
-- **Only Official Website https://rovalra.com**
+- **One of many Official Website https://rovalra.com**
 
-- **ROREGION IS NOT MADE OR CONTROLLED BY ME, THEY ARE USING ROVALRAS SOURCE CODE FOR THEIR EXTENSION**
+- **ROREGION IS NOT MADE OR CONTROLLED BY WE, THEY ARE USING ROVALRAS SOURCE CODE FOR THEIR EXTENSION**
 
 <a href="https://chromewebstore.google.com/detail/RoValra%20-%20Roblox%20Improved/njcickgebhnpgmoodjdgohkclfplejli" title="Available in the Chrome Web Store"><img src="/Assets/ChromeWebStore_BadgeWBorder_v2_206x58.png" alt="Available in the Chrome Web Store"></a>\
 <img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/NotValra/RoValra/total">
@@ -15,11 +15,11 @@
 
 
 ## Sections
-- [**Features**](https://github.com/NotValra/RoValra?tab=readme-ov-file#features)
-- [**FAQ**](https://github.com/NotValra/RoValra?tab=readme-ov-file#FAQ)
-- [**Known incompatibilies**](https://github.com/NotValra/RoValra?tab=readme-ov-file#known-incompatibilies)
-- [**How to install**](https://github.com/NotValra/RoValra?tab=readme-ov-file#how-to-install)
-- [**Credits**](https://github.com/NotValra/RoValra?tab=readme-ov-file#credits) 
+- [**Features**](https://github.com/yeekom/VoRalra?tab=readme-ov-file#features)
+- [**FAQ**](https://github.com/yeekom/VoRalra?tab=readme-ov-file#FAQ)
+- [**Known incompatibilies**](https://github.com/yeekom/VoRalra?tab=readme-ov-file#known-incompatibilies)
+- [**How to install**](https://github.com/yeekom/VoRalra?tab=readme-ov-file#how-to-install)
+- [**Credits**](https://github.com/yeekom/VoRalra?tab=readme-ov-file#credits) 
 
 # Features
 - **Games**
