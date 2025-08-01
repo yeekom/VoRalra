@@ -8,7 +8,7 @@
 - **If you like this project, consider giving it a star⭐, it really helps!**
 
 
-**[Discord Server](https://discord.gg/GHd5cSKJRk)**
+**[Discord Server](https://discord.com/gifts/Q6maBgNEG96kb3KW)**
 
 
 
